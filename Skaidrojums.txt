@@ -1,0 +1,10 @@
+J1. Pieeja pirms koda
+
+1) Vispirms es apskatīšu pašu failu, las saprast kur atrodas kļūda un laiks.
+2) Pēc tam es no katras kļūdas rindiņas izvilkšu stundu.
+3) Pēc tam es saskaitīšu cik dauzd kļūdu bija katrā stundā.
+4) Beigas es salidzināšu šos skaitļus un atradišu stundu, kura kļūdu bija visvairāk.
+
+J2. Objekti, nevis teksts
+
+1) 
