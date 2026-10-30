@@ -1,5 +1,7 @@
 J1. Pieeja pirms koda
 
+ATB:
+
 1) Vispirms es apskatīšu pašu failu, las saprast kur atrodas kļūda un laiks.
 2) Pēc tam es no katras kļūdas rindiņas izvilkšu stundu.
 3) Pēc tam es saskaitīšu cik dauzd kļūdu bija katrā stundā.
@@ -7,4 +9,7 @@ J1. Pieeja pirms koda
 
 J2. Objekti, nevis teksts
 
-1) 
+ATB:
+
+Objektu galvenā priekšrocība ir tā, ka atmiņas apjoms uzreiz ir gatavs skatilis, ko var salidzināt ar 200 MB.
+Bash vidē teksts būtu ar rokām jāgriež un jāpārvērš ciparos, bet Powershell to izdara automātiski bez liekas ņemšanās.
